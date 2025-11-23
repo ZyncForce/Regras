@@ -43,7 +43,7 @@
 
 > Recurso de Punição: Se você foi banido e acredita que foi um engano, você pode apelar através do nosso servidor de apelações:
 
-### > Link de Apelação: https://discord.gg/GtJqzjf5Xu
+### > Link de Apelação: https://discord.gg/SasbNfJxYd
 
 
 # Termos de Serviço do Zync
